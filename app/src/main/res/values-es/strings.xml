@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HadrielJustJava</string>
+
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="Name">Nombre</string>
+    <string name="Whipped_Cream">Crema batida</string>
+    <string name="Order">Orden</string>
+    <string name="Quantity">Cantidad</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Caramel">Caramelo</string>
+    <string name="Boba_Pearls">Perlas Boba</string>
+    <string name="Toppings">Cubierta</string>
+</resources>
